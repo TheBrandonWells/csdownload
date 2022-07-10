@@ -1,0 +1,22 @@
+{
+  "name": "csdownload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheBrandonWells/csdownload.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheBrandonWells/csdownload/issues"
+  },
+  "homepage": "https://github.com/TheBrandonWells/csdownload#readme",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
